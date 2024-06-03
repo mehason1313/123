@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me | Mykhailo Mysyk</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>About Me</h1>
+    </header>
+    <section>
+        <h2>Personal Introduction</h2>
+        <p>Hello! I'm Mykhailo Mysyk, a dedicated and experienced ZZP Timmerman based in Zandvoort, North Holland. My passion for carpentry began at a young age, and over the years, I've honed my skills to specialize in facade installation and full house renovations.</p>
+        <h2>Professional Summary</h2>
+        <p>With a fully equipped van and a comprehensive set of tools, I'm ready to tackle various carpentry projects. My commitment to quality workmanship and client satisfaction drives me to deliver outstanding results on every job.</p>
+        <h2>Career Objectives</h2>
+        <p>I aim to provide top-notch carpentry services that exceed client expectations. My goal is to establish long-term relationships with my clients by consistently delivering high-quality work on time and within budget.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Mykhailo Mysyk. All rights reserved.</p>
+    </footer>
+</body>
+</html>

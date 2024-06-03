@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio | Mykhailo Mysyk</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Portfolio</h1>
+    </header>
+    <section>
+        <h2>Project Showcase</h2>
+        <div class="project-gallery">
+            <div class="project">
+                <img src="project1.jpg" alt="Facade Installation Project">
+                <h3>Facade Installation Project</h3>
+                <p>Successfully transformed the exterior of a residential building, enhancing its curb appeal and structural integrity.</p>
+            </div>
+            <div class="project">
+                <img src="project2.jpg" alt="House Renovation Project">
+                <h3>Full House Renovation Project</h3>
+                <p>Completed a comprehensive renovation, including structural modifications, new installations, and finishing touches.</p>
+            </div>
+        </div>
+        <h2>Client Testimonials</h2>
+        <blockquote>
+            <p>"Mykhailo did an amazing job on our house renovation. His attention to detail and craftsmanship are exceptional." – Client A</p>
+        </blockquote>
+        <blockquote>
+            <p>"We are extremely satisfied with the facade installation. Mykhailo's professionalism and quality of work exceeded our expectations." – Client B</p>
+        </blockquote>
+    </section>
+    <footer>
+        <p>&copy; 2024 Mykhailo Mysyk. All rights reserved.</p>
+    </footer>
+</body>
+</html>

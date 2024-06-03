@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mykhailo Mysyk | ZZP Timmerman</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="resume.html">Resume</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <h1>Welcome to Mykhailo Mysyk's Carpentry Services</h1>
+        <p>Experienced and skilled ZZP Timmerman specializing in facade installation and full house renovations. Committed to delivering high-quality workmanship and ensuring client satisfaction.</p>
+        <a href="#portfolio" class="cta-button">Learn More About My Work</a>
+    </header>
+    <!-- ... rest of the content ... -->
+</body>
+</html>

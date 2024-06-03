@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services | Mykhailo Mysyk</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Services</h1>
+    </header>
+    <section>
+        <h2>Facade Installation</h2>
+        <p>I offer expert facade installation services, ensuring that your building's exterior is not only aesthetically pleasing but also durable and well-constructed.</p>
+        <h2>Full House Renovation</h2>
+        <p>From initial consultation to final finishing, I manage full house renovation projects, transforming spaces to meet my clients' needs and preferences.</p>
+        <h2>Custom Carpentry and Woodworking</h2>
+        <p>I provide bespoke carpentry and woodworking services, creating custom pieces that enhance the beauty and functionality of any space.</p>
+        <h2>Project Management</h2>
+        <p>With strong project management skills, I oversee every aspect of the job, ensuring that projects are completed efficiently and to the highest standards.</p>
+        <h2>Consultation Services</h2>
+        <p>I offer initial consultations to understand client needs and project scope, providing professional advice and recommendations.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Mykhailo Mysyk. All rights reserved.</p>
+    </footer>
+</body>
+</html>
